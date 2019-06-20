@@ -120,7 +120,6 @@ class CreateFolderState extends State<CreateFolder> {
             ),
           ),
           Text("Выберите цвет папки", style: TextStyle(fontSize:15.0, color:customBlackColor)),
-          Container(height:6.0),
           Row(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
             _colorCircle(_colors[0], 0),
             _colorCircle(_colors[1], 1),
@@ -286,7 +285,6 @@ class UpdateFolderState extends State<UpdateFolder> {
                 ),
               ),
               Text("Выберите цвет папки", style: TextStyle(fontSize:15.0, color:customBlackColor)),
-              Container(height:6.0),
               Row(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
                 _colorCircle(_colors[0], 0),
                 _colorCircle(_colors[1], 1),
