@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "333625019109",
+    "project_number": "****",
     "firebase_url": "https://websites-to-visit.firebaseio.com",
     "project_id": "websites-to-visit",
     "storage_bucket": "websites-to-visit.appspot.com"
@@ -8,28 +8,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:333625019109:android:c59555d7fbc9dc20",
+        "mobilesdk_app_id": "*:****",
         "android_client_info": {
           "package_name": "com.example.websites_to_visit"
         }
       },
       "oauth_client": [
         {
-          "client_id": "333625019109-vafg2l2ub5r42q3g0fs9secverbhfgc0.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "*",
+          "client_type": *
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDjK6qmqN9enWy9p4UbSidePQZQsjs47gg"
+          "current_key": "*"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "333625019109-vafg2l2ub5r42q3g0fs9secverbhfgc0.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "*",
+              "client_type": *
             }
           ]
         }
